@@ -2,58 +2,58 @@
 first = "dheeraj"
 last =  "sharma"
 
-# print(type(first))
-# print(type(first) == str)
-# print(isinstance(first,str))
+print(type(first))
+print(type(first) == str)
+print(isinstance(first,str))
 
-#constructor function
-# pizza = str("tomato")
-# print(type(pizza))
-# print(type(pizza) == str)
-# print(isinstance(pizza,str)) 
+constructor function
+pizza = str("tomato")
+print(type(pizza))
+print(type(pizza) == str)
+print(isinstance(pizza,str)) 
 
-# fullname = first + " " + last
-# print(fullname) 
-# fullname +="!"
-# print(fullname)
+fullname = first + " " + last
+print(fullname) 
+fullname +="!"
+print(fullname)
 
-#casing a number to a string
-# decade = str(1900)
-# print(type(decade))
-# print(decade)
+casing a number to a string
+decade = str(1900)
+print(type(decade))
+print(decade)
 
-# statement = 'i love music of '   + decade + 's.'
-# print(statement)
+statement = 'i love music of '   + decade + 's.'
+print(statement)
 
-#multilines
-# Trip = '''
-# Going pondy.
-#              No
-# Ok bye bye             
+multilines
+Trip = '''
+Going pondy.
+             No
+Ok bye bye             
 
 
 # ''' 
-# print(Trip)
-# sentence = 'i\'m back at work!\t hey! \n what are you dng\n nothing'
-# print(sentence)
+print(Trip)
+sentence = 'i\'m back at work!\t hey! \n what are you dng\n nothing'
+print(sentence)
 
-# print(first)
-# print(first.lower())
-# print(first.upper())
-# print(first)
+print(first)
+print(first.lower())
+print(first.upper())
+print(first)
 
-# print(Trip.title())
-# print(Trip.replace("No","yes"))
-# print(Trip)
+print(Trip.title())
+print(Trip.replace("No","yes"))
+print(Trip)
 
-# dataset = '''
-# would you like to join us.
+dataset = '''
+ would you like to join us.
 
-# at what time?
+ at what time?
 
-# 5-30
+ 5-30
 
-# No, i m busy
+ No, i m busy
 
 
 
